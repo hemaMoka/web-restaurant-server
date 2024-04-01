@@ -1,0 +1,345 @@
+{
+  "categorys": [
+    {
+      "id": 1,
+      "title": "Cooking Equipment",
+      "image": "https://cdnimg.webstaurantstore.com/uploads/seo_category/2020/10/re-cooking-equipment.jpg",
+      "productsCount": 22,
+      "hero": "https://www.webstaurantstore.com/uploads/seo_category/2021/8/cooking-equipment-photogrid-header.jpg",
+      "types": [
+        "Gas Fryers",
+        "Commercial Gas Ranges",
+        "Griddles",
+        "Charbroilers"
+      ],
+      "desc": "Equip your kitchen with top-quality commercial cooking equipment. We carry reputable brands at prices that can't be beat."
+    },
+    {
+      "id": 2,
+      "title": "Refrigeration Equipment",
+      "image": "https://cdnimg.webstaurantstore.com/uploads/seo_category/2020/10/re-refrigeration-equipment.jpg",
+      "productsCount": 20,
+      "hero": "https://www.webstaurantstore.com/uploads/seo_category/2018/10/commercial-refrigeration_1.jpg",
+      "types": [
+        "Reach-In Refrigerators and Freezers",
+        "Refrigerated Prep Tables",
+        "Merchandising and Display Refrigeration",
+        "Bar Refrigeration"
+      ],
+      "desc": "With hundreds of commercial refrigeration equipment products to choose from, you’re sure to find a unit that’s suitable for your needs."
+    },
+    {
+      "id": 3,
+      "title": "Commercial Work Tables",
+      "image": "https://cdnimg.webstaurantstore.com/uploads/seo_category/2020/10/re-commercial-work-tables.jpg",
+      "productsCount": 8,
+      "hero": "https://www.webstaurantstore.com/uploads/seo_category/2022/4/tables-header.jpg",
+      "types": [
+        "Stainless Steel Work Tables with Undershelf",
+        "Stainless Steel Open Base Work Tables",
+        "Equipment Stands and Mixer Tables",
+        "Stainless Steel Enclosed Base Commercial Work Tables"
+      ],
+      "desc": "Our food preparation section has everything you need to transform basic, raw ingredients into culinary masterpieces"
+    },
+    {
+      "id": 4,
+      "title": "Food Preparation Equipment",
+      "image": "https://cdnimg.webstaurantstore.com/uploads/seo_category/2022/3/food-preperation_final.jpg",
+      "productsCount": 10,
+      "types": [
+        "Meat Choppers and Meat Grinders",
+        "Commercial Immersion Blenders",
+        "Dough Sheeters, Rounders & Dividers",
+        "Cutters and Slicers"
+      ],
+      "hero": "https://www.webstaurantstore.com/uploads/seo_category/2021/6/foodprep-header.jpg",
+      "desc": "Our food preparation section has everything you need to transform basic, raw ingredients into culinary masterpieces."
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "catId": 1,
+      "title": "Cooking Performance Group S36-N Natural Gas 6 Burner 36\" Range with Standard Oven - 210,000 BTU",
+      "price": 1429,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/214530/2162104.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/214530/2162108.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/214530/2162105.jpg"
+      ],
+      "secT": "Boost your kitchen's efficiency, reliability, and overall performance with this Cooking Performance Group S36-N gas range.",
+      "secD": "A combination of open top burners and a spacious oven make this natural gas range a tremendous asset to your commercial kitchen! You can effortlessly boil, saute, simmer, and perform a variety of other cooking tasks atop the heavy-duty cast iron grates. The oven, meanwhile, provides you with a convenient way to warm your delicious foods or even do a bit of baking for your dessert menu!"
+    },
+    {
+      "id": 2,
+      "catId": 1,
+      "title": "Cooking Performance Group S60-G36-N Natural Gas 4 Burner 60\" Range with 36\" Griddle and 2 Standard Ovens - 240,000 BTU",
+      "price": 3399,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/564372/2226020.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/564372/2229810.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/564372/2226021.jpg"
+      ],
+      "secT": "Boost your kitchen's efficiency, reliability, and overall performance with this Cooking Performance Group S60-G36-N natural gas range.",
+      "secD": "A combination of open top burners, a 36\" griddle, and a spacious oven make this natural gas range a tremendous asset to your commercial kitchen! You can effortlessly boil, saute, simmer, and perform a variety of other cooking tasks on the heavy-duty cast iron grates while grilling on the rugged steel griddle. The oven also provides you with a convenient way to warm your delicious foods or even do some baking for your dessert menu!"
+    },
+    {
+      "id": 3,
+      "catId": 1,
+      "title": "Main Street Equipment E24-N Natural Gas 4 Burner 24\" Range with Space Saver Oven - 150,000 BTU",
+      "price": 1099,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/635661/2301781.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/635661/2369859.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/635661/2287867.jpg"
+      ],
+      "secT": "Improve your kitchens performance with the Main Street Equipment E24-L natural gas 4 burner 24\" range with space saver oven!",
+      "secD": "With (4) 30,000 BTU open top burners, this natural gas range ensures you can saute, boil, and simmer your dishes to perfection. For added versatility, the 30,000 BTU space saver oven allows you to warm foods or to even do baking for your dessert menu. Since the (2) 20\" x 24 1/2\" chrome-plated racks can be used in 4 different positions, the oven can easily be manipulated to fit your specific needs. With a range of 250 to 550 degrees Fahrenheit, it will accommodate a wide variety of recipes."
+    },
+    {
+      "id": 4,
+      "catId": 1,
+      "title": "Avantco Chef Series CAG-R-4-24 24\" 4 Burner Gas Countertop Range - 100,000 BTU",
+      "price": 488.99,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/573632/2204714.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/573632/2204714.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/573632/2190728.jpg"
+      ],
+      "secT": "Perfect for busy operations that are tight on space, this Avantco Chef Series gas 24\" 4 burner countertop range adds easy compact convenience to your kitchen",
+      "secD": "With a countertop design, the unit is space efficient, and with its (4) 25,000 BTU burners, it's ideal for whipping up sauces, sides, entrees, and even desserts."
+    },
+    {
+      "id": 5,
+      "catId": 1,
+      "title": "Cooking Performance Group R-CPG-12-NL 2 Burner Gas Countertop Range / Hot Plate - 44,000 BTU",
+      "price": 439.99,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/104437/2474823.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/104437/2481756.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/104437/2474824.jpg"
+      ],
+      "secT": "For a durable and reliable cooking solution, choose this Cooking Performance Group R-CPG-12-NL 2 burner gas countertop range!",
+      "secD": "Great for fast-paced diners, concession stands, and food trucks, this unit boasts powerful burners, a durable stainless steel design, and versatile natural gas and liquid propane connections so that you can modify this countertop range to best fit your needs!"
+    },
+    {
+      "id": 6,
+      "catId": 1,
+      "title": "Avantco Chef Series CAG-R-6-36 36\" 6 Burner Gas Countertop Range - 150,000 BTU",
+      "price": 709,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/573647/2192920.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/573647/2203870.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/573647/2192921.jpg"
+      ],
+      "secT": "Perfect for busy operations that are tight on space, this Avantco Chef Series gas 36\" 6 burner countertop range adds easy compact convenience to your kitchen!",
+      "secD": "With a countertop design, the unit is space efficient, and with its (6) 25,000 BTU burners, it's ideal for whipping up sauces, sides, entrees, and even desserts."
+    },
+    {
+      "id": 7,
+      "catId": 1,
+      "title": "Cooking Performance Group 36RSNL 6 Burner Countertop Range with Regency Equipment Stand - 132,000 BTU",
+      "price": 1199,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/692566/2441429.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/692566/2442345.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/692566/2441430.jpg"
+      ],
+      "secT": "Enable the ultimate cooking convenience with this Cooking Performance Group 36RSNL 6 burner countertop range with Regency equipment stand.",
+      "secD": "Boasting 6 powerful 22,000 BTU burners with standing pilots for instant ignition, this range gives you the high-performance cooking solution you need to easily prepare sauces, sides, and entrees! This unit stands on sturdy galvanized steel legs with adjustable plastic bullet feet that allow you to level the stand on uneven surfaces."
+    },
+    {
+      "id": 8,
+      "catId": 2,
+      "title": "Avantco A-49R-HC 54\" Solid Door Reach-In Refrigerator",
+      "price": 2199,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/225737/2267473.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/225737/2267477.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/225737/2267474.jpg"
+      ],
+      "secT": "Store fresh produce and ingredients in the Avantco A-49R-HC 54\" two section solid door reach-in refrigerator",
+      "secD": "Whether you’re storing milk, eggs, vegetables, or freshly-made foods, the Avantco A-49R-HC is perfect for your restaurant, cafe, or bakery. This unit has a spacious cabinet with multiple adjustable shelves, a powerful refrigeration system, and environmentally-safe refrigerant. With this refrigerator, your ingredients and fully-prepared foods will stay safely out of the temperature danger zone."
+    },
+    {
+      "id": 9,
+      "catId": 2,
+      "title": "Avantco A-23R-HC 29\" Solid Door Reach-In Refrigerator",
+      "price": 1499,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/228631/2375465.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/228631/2388361.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/228631/2375466.jpg"
+      ],
+      "secT": "Store fresh produce and ingredients in the Avantco A-23R-HC 29\" one section solid door reach-in refrigerator.",
+      "secD": "Whether you’re storing milk, eggs, vegetables, or freshly-made foods, the Avantco A-23R-HC is perfect for your small restaurant, cafe, or bakery. This unit has a spacious cabinet with multiple adjustable shelves, but it's still small enough to fit in places where larger units would not. With a powerful refrigeration system and environmentally-safe refrigerant, your ingredients and fully-prepared foods will stay safely out of the temperature danger zone."
+    },
+    {
+      "id": 10,
+      "catId": 2,
+      "title": "Beverage-Air HBRF49HC-1-A Horizon Series 52\" Stainless Steel Solid Door Dual Temperature Reach-In Refrigerator / Freezer",
+      "price": 10324,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/535296/1963471.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/535296/1967321.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/535296/1963472.jpg"
+      ],
+      "secT": "Beverage-Air HBRF49HC-1-A Details",
+      "secD": "Two solid doors have self-closing and 120 degree stay-open features for convenience as you load and unload ingredients. Magnetic gaskets also ensure a positive seal when each door is shut, and door locks allow the operator to secure ingredients after hours for optimal safety. Inside the unit, five adjustable shelves per cabinet make organizing products a breeze, and energy-efficient LED lighting provides ample visibility."
+    },
+    {
+      "id": 11,
+      "catId": 2,
+      "title": "Beverage-Air UCF27AHC-25 and UCR27AHC-25 Double Stacked 27\" Glass Door Undercounter Freezer and Refrigerator with 6\" Casters",
+      "Price": 6242,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/522160/1940791.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/522160/1942411.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/522160/1940792.jpg"
+      ],
+      "secT": "Beverage-Air UCR27AHC-25+00C32-012A-UCF27AHC-25 Details",
+      "secD": "Dealing with limited space can make things hectic in a high-traffic commercial kitchen, so maximize your real estate with this shallow depth Beverage-Air UCF27AHC-25/UCR27AHC-25 double stacked 27\" glass door undercounter freezer and refrigerator combination! This set includes 1 undercounter freezer, 1 undercounter refrigerator, and a stacking collar for double stack installation."
+    },
+    {
+      "id": 12,
+      "catId": 3,
+      "title": "Regency 30\" x 72\" 18-Gauge 304 Stainless Steel Commercial Work Table with Galvanized Legs and Undershelf",
+      "price": 184,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/22232/2059147.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/22232/2386111.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/22232/2059147.jpg"
+      ],
+      "secT": "Increase your kitchen work space with this Regency 30\" x 72\" stainless steel commercial work table.",
+      "secD": "Great for chopping, sorting, and assembling, this work table provides a sturdy, spacious surface for food prep and storage. With its high weight capacity, easy-to-clean surface, and overall functional design, you can organize your kitchen to create an efficient work flow."
+    },
+    {
+      "id": 13,
+      "catId": 3,
+      "title": "Regency 30\" x 96\" 16-Gauge Stainless Steel Commercial Work Table with 4\" Backsplash and Undershelf",
+      "price": 436,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/65066/1847998.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/65066/2325559.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/65066/2369809.jpg"
+      ],
+      "secT": "Increase your work space with this Regency 30\" x 96\" stainless steel commercial work table.",
+      "secD": "Featuring a backsplash and all-stainless steel construction, this work table is a great addition to your restaurant, cafe, or bakery. Perfect for rolling out dough or chopping fruits and vegetables, you can make the most out of limited counterspace by adding this versatile work table to your establishment!"
+    },
+    {
+      "id": 14,
+      "catId": 3,
+      "title": "Steelton Wood Top Work Cart with Stainless Steel Base and Undershelves - 32\" x 20\" x 35",
+      "price": 392.99,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/646462/2360962.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/646462/2377023.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/646462/2360963.jpg"
+      ],
+      "secT": "Details",
+      "secD": "This Steelton wood top work cart is a great option when you need a mobile prep station that provides a refined and elegant look without sacrificing usability! It features a 20\" x 30\" solid rubberwood top that measures 1 3/4\" thick and provides a more natural aesthetic than the standard steel top on most work carts. This makes it the perfect backdrop to prepare and serve samples at a supermarket, appetizers at a banquet hall, and a wide variety of other uses."
+    },
+    {
+      "id": 15,
+      "catId": 3,
+      "title": "Regency 30\" x 36\" 16-Gauge Stainless Steel Equipment Stand with Galvanized Undershelf",
+      "Price": 193.49,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/62675/1898499.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/62675/2558533.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/62675/1898500.jpg"
+      ],
+      "secT": "Store your business's heavy countertop equipment on this Regency 30\" x 36\" equipment stand.",
+      "secD": "This Regency 30\" x 36\" stainless steel equipment stand is built to hold up to daily use in even the busiest commercial settings! Its durable steel construction, impressive weight capacity, and additional undershelf make it the perfect choice for storing both your equipment and the supplies that come with it."
+    },
+    {
+      "id": 16,
+      "catId": 4,
+      "title": "Avantco MG22R #22 Meat Grinder with Reverse Function - 110V, 1 1/2 hp",
+      "price": 569,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/639645/2469204.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/639645/2500145.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/639645/2469205.jpg"
+      ],
+      "secT": "Keep up with high-demand at your facility with this heavy-duty Avantco MG22R #22 meat grinder with reverse function.",
+      "secD": "This industrial meat grinder allows you to quickly and efficiently break down beef, sausage, wild game, and other popular meats. It features a powerful 1 1/2 hp motor to withstand the rigors of hard, daily use, and for maximum convenience, it comes with various accessories to maximize your meat processing capabilities."
+    },
+    {
+      "id": 17,
+      "catId": 4,
+      "title": "Backyard Pro BSG32 Butcher Series #32 Electric Meat Grinder - 120V, 2 hp",
+      "price": 599,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/484134/1915020.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/484134/1920977.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/484134/1915021.jpg"
+      ],
+      "secT": "Make fresh sausages, hamburgers, and other specialty meat items in-house for special occasions or events with this Backyard Pro BSG32 Butcher Series #32 electric meat grinder!",
+      "secD": "This medium-duty grinder is great for occasional use 2-3 times a week for up to an hour of grinding each session. This unit can handle up to 16-18 lb. of meat per minute for perfectly sized batches. For optimal grinding results be sure to use this machine with meat chilled to 32-34 degrees Fahrenheit and cut into approximately 1\" squares beforehand. This unit requires a 120V electrical connection for operation."
+    },
+    {
+      "id": 18,
+      "catId": 4,
+      "title": "Avantco EMBS65SS 65\" Blade Stainless Steel Countertop Vertical Band Meat Saw - 1 hp, 120",
+      "price": 849,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/484081/2423397.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/484081/2452332.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/484081/2423398.jpg"
+      ],
+      "secT": "Easily and precisely cut meat with the help of this Avantco EMBS65SS 65\" blade stainless steel countertop vertical band meat saw.",
+      "secD": "Boasting a razor sharp, 65\" long blade with 3 teeth per inch and 1 hp motor, this vertical band saw can cut through all kinds of meat for perfect portioning and presentation. Due to its max cutting dimensions of 8\" x 7\", this countertop meat saw can handle thicker portions of meat with ease, making it the perfect addition to your butcher shop or deli. Best of all, since this is a countertop saw unit, it won't take up as much space in your establishment in comparison to an alternative floor model. This unit requires a 120V electrical connection for operation."
+    },
+    {
+      "id": 19,
+      "catId": 4,
+      "title": "Avantco SS-15V 15 lb. Stainless Steel Vertical Manual Sausage Stuffer with 5/8\", 7/8\", 1 1/4\", and 1 1/2\" Stainless Steel Funnels",
+      "price": 159.99,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/530915/2002869.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/530915/2002856.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/530915/2002854.jpg"
+      ],
+      "secT": "Clear up counter space while providing your customers with specialty sausages with this Avantco SS-15V 15 lb. vertical manual sausage stuffer!",
+      "secD": "Whether you're making kielbasa, chorizo, or bratwurst, this stuffer has what it takes to give you consistent links or ropes of sausage. Its vertical design delivers reliable performance while taking up minimal counter space. Plus, it's easy-to-use and easy-to-maintain construction will keep your sausage-making operation running at maximum efficiency."
+    },
+    {
+      "id": 20,
+      "catId": 4,
+      "title": "Avantco SSH-11V 11 lb. Stainless Steel Horizontal Manual Sausage Stuffer with 5/8\", 7/8\", 1 1/4\", and 1 1/2\" Stainless Steel Funnels",
+      "Price": 144.99,
+      "images": [
+        "https://cdnimg.webstaurantstore.com/images/products/large/614042/2259392.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/614042/2262456.jpg",
+        "https://cdnimg.webstaurantstore.com/images/products/large/614042/2259393.jpg"
+      ],
+      "secT": "Make kielbasa, chorizo, bratwurst, and other mouthwatering meats with this Avantco SSH-11V 11 lb. horizontal manual sausage stuffer!",
+      "secD": "This unit boasts a horizontal design that delivers reliable performance while keeping the stuffer stable and taking up minimal counter space. It includes 5/8\", 7/8\", 1 1/4\", and 1 1/2\" stainless steel funnels so you can make snack sticks, sausage, and luncheon meats without needing to buy any additional accessories. The four sizes of funnels allows you to use nearly infinite sizes of collagen, fibrous, and natural casings to make your special dishes."
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "hema",
+      "email": "hema@mail.com",
+      "phone": "0120000000",
+      "password": "12345"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "product_id": 1,
+      "count": 1
+    },
+    {
+      "user_id": 1,
+      "product_id": "12",
+      "count": 1,
+      "id": 2
+    }
+  ]
+}
